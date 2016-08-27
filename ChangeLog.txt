@@ -1,0 +1,5 @@
+Changelog (Alterações):
+
+27-08-2016 -
+Bug Fixes ao Player em si.
+NOVO! Updater!
